@@ -77,8 +77,8 @@ var arr =
     },
     {
       "id": "9",
-      "image1": "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/GreyonWhite3_1800x1800.jpg",
-      "image2": "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/GreyonWhite8_1800x1800.jpg?v=1631782852",
+      "image1": "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/GreyOnWhite2_640x640.jpg?v=1644229695",
+      "image2": "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/GreyOnWhite8_640x640.jpg?v=1644229695",
       "title": "Drift Grey On White",
       "original_price": "1440",
       "final_price": "1299",
