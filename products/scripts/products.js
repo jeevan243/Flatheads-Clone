@@ -67,8 +67,8 @@ var arr =
     },
     {
       "id": "8",
-      "image1": "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/GreyonBlack2_1800x1800.jpg",
-      "image2": "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/GreyonBlack8_1800x1800.jpg?v=1631782809",
+      "image1": "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/GreyOnBlack1_640x640.jpg?v=1644229566",
+      "image2": "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/GreyOnBlack8_640x640.jpg?v=1644229571",
       "title": "Drift Grey On Black",
       "original_price": "1440",
       "final_price": "1299",
